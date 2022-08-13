@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @IqraL
+- 👋 Hi
 
 <!---
 IqraL/IqraL is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
